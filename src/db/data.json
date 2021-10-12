@@ -15,6 +15,14 @@
     {
       "day": 4,
       "id": 4
+    },
+    {
+      "day": 5,
+      "id": 5
+    },
+    {
+      "day": 6,
+      "id": 6
     }
   ],
   "words": [
@@ -66,6 +74,27 @@
       "kor": "사과",
       "isDone": false,
       "id": 12
+    },
+    {
+      "day": "4",
+      "eng": "prohibit",
+      "kor": "금지하다",
+      "isDone": false,
+      "id": 13
+    },
+    {
+      "day": "4",
+      "eng": "engine",
+      "kor": "엔진",
+      "isDone": false,
+      "id": 14
+    },
+    {
+      "day": "2",
+      "eng": "computer",
+      "kor": "컴퓨터",
+      "isDone": true,
+      "id": 15
     }
   ]
 }
