@@ -92,13 +92,6 @@
       "kor": "엔진",
       "isDone": false,
       "id": 14
-    },
-    {
-      "day": "2",
-      "eng": "computer",
-      "kor": "컴퓨터",
-      "isDone": true,
-      "id": 15
     }
   ]
 }
