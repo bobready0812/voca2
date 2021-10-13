@@ -13,6 +13,9 @@ export default function Header() {
                 <Link to="/create_day" className="link">
                     Day 추가
                 </Link>
+                <Link to="/create_new" className="link">
+                    h1태그
+                </Link>
 
             </div>
 

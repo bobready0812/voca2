@@ -5,6 +5,7 @@ import {BrowserRouter, Route, Switch} from "react-router-dom";
 import EmptyPage from './component/EmptyPage';
 import CreateWord from './component/CreateWord';
 import CreateDay from './component/CreateDay';
+import NewCompo from './component/NewCompo';
 
 function App() {
     return (
@@ -23,6 +24,9 @@ function App() {
                   </Route>
                   <Route path="/create_day">
                     <CreateDay />
+                  </Route>
+                  <Route path="/create_new">
+                    <NewCompo /> 
                   </Route>
                   <Route>
                     <EmptyPage />
